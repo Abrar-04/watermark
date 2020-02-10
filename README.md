@@ -1,5 +1,3 @@
-# watermark
-adding watermarks to images
+# WATERMARK
 
-
-using cv2
+Program to add a watermark to images using cv2
